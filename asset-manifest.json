@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitter-signup-page-clone/static/css/main.4bb158ba.css",
+    "main.js": "/twitter-signup-page-clone/static/js/main.58856a55.js",
+    "static/media/Professional way.jpg": "/twitter-signup-page-clone/static/media/Professional way.6109309786e7287152ad.jpg",
+    "static/media/twitter.png": "/twitter-signup-page-clone/static/media/twitter.ee316e0d2358e67d5ee2.png",
+    "index.html": "/twitter-signup-page-clone/index.html",
+    "main.4bb158ba.css.map": "/twitter-signup-page-clone/static/css/main.4bb158ba.css.map",
+    "main.58856a55.js.map": "/twitter-signup-page-clone/static/js/main.58856a55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb158ba.css",
+    "static/js/main.58856a55.js"
+  ]
+}
